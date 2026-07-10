@@ -11,18 +11,23 @@
 </p>
 
 <p align='center'>
-  <a href='https://github.com/ChuanruiWu'>GitHub</a>
-  &nbsp;·&nbsp;
-  <a href='mailto:icechuanrui@gmail.com'>Email</a>
+  <a href='https://github.com/ChuanruiWu'>
+    <img src='https://img.shields.io/badge/GitHub-ChuanruiWu-181717?style=flat-square&logo=github&logoColor=white' alt='GitHub'>
+  </a>
+  <a href='mailto:icechuanrui@gmail.com'>
+    <img src='https://img.shields.io/badge/Email-icechuanrui%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white' alt='Email'>
+  </a>
 </p>
 
 ---
 
 ### About me
 
-I completed my undergraduate studies at **Northeastern University (NEU)** and will begin my Ph.D. at the **National University of Defense Technology (NUDT)** in Fall 2026.
+I completed my undergraduate studies at [**Northeastern University (NEU)**](https://www.neu.edu.cn/) and will begin my Ph.D. at the [**National University of Defense Technology (NUDT)**](https://www.nudt.edu.cn/) in Fall 2026.
 
 My research interests include **Embodied AI**, **Vision-and-Language Navigation (VLN)**, and **AI agents**.
+
+For research discussions or potential collaborations, feel free to contact me at [**icechuanrui@gmail.com**](mailto:icechuanrui@gmail.com).
 
 ---
 
