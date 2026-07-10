@@ -24,9 +24,3 @@ I completed my undergraduate studies at [**Northeastern University (NEU)**](http
 My research interests include **Embodied AI**, **Vision-and-Language Navigation (VLN)**, and **AI agents**.
 
 For research discussions or potential collaborations, feel free to contact me at [**icechuanrui@gmail.com**](mailto:icechuanrui@gmail.com).
-
----
-
-<p align='center'>
-  <sub>Make it clear. Make it useful. Keep improving it.</sub>
-</p>
