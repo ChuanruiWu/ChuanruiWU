@@ -1,8 +1,8 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='900' height='118' viewBox='0 0 900 118' role='img' aria-labelledby='title desc' shape-rendering='crispEdges'>
-  <title id='title'>Hi, I'm Chuanrui Wu.</title>
+  <title id='title'>Hi, I'm Chuanrui.</title>
   <desc id='desc'>A compact pixel-terminal animated profile introduction for a light theme.</desc>
   <defs>
-    <clipPath id='reveal'><rect class='reveal' x='228' y='15' width='0' height='52'/></clipPath>
+    <clipPath id='reveal'><rect class='reveal' x='263' y='15' width='0' height='52'/></clipPath>
   </defs>
   <style>
     .mono{font-family:Consolas,'Lucida Console','Courier New',monospace;letter-spacing:0;text-rendering:optimizeSpeed}
@@ -11,25 +11,25 @@
     .intro{fill:#1f2328;font-size:38px;font-weight:700}
     .tagline{fill:#656d76;font-size:14px;font-weight:600;opacity:0;animation:show-tagline 4.2s ease-out 1 forwards}
     .tag-mark{fill:#087ea4}
-    .reveal{animation:type-intro 4.2s steps(20,end) 1 forwards}
-    .cursor-group{animation:move-cursor 4.2s steps(20,end) 1 forwards}
+    .reveal{animation:type-intro 4.2s steps(17,end) 1 forwards}
+    .cursor-group{animation:move-cursor 4.2s steps(17,end) 1 forwards}
     .cursor{fill:#087ea4;animation:blink .7s step-end 6 forwards}
-    @keyframes type-intro{0%,10%{width:0}72%,100%{width:470px}}
-    @keyframes move-cursor{0%,10%{transform:translateX(0)}72%,100%{transform:translateX(470px)}}
+    @keyframes type-intro{0%,10%{width:0}72%,100%{width:400px}}
+    @keyframes move-cursor{0%,10%{transform:translateX(0)}72%,100%{transform:translateX(400px)}}
     @keyframes show-tagline{0%,68%{opacity:0;transform:translateY(3px)}82%,100%{opacity:1;transform:translateY(0)}}
     @keyframes blink{0%,49%{opacity:1}50%,99%{opacity:0}100%{opacity:1}}
     @media(prefers-reduced-motion:reduce){
-      .reveal{animation:none;width:470px}
-      .cursor-group{animation:none;transform:translateX(470px)}
+      .reveal{animation:none;width:400px}
+      .cursor-group{animation:none;transform:translateX(400px)}
       .tagline{animation:none;opacity:1}
     }
   </style>
-  <path class='pixel-prompt' d='M185 23h7v7h7v7h7v7h-7v7h-7v7h-7v-7h7v-7h7v-7h-7v-7h-7z'/>
+  <path class='pixel-prompt' d='M220 23h7v7h7v7h7v7h-7v7h-7v7h-7v-7h7v-7h7v-7h-7v-7h-7z'/>
   <g clip-path='url(#reveal)'>
-    <text class='mono intro-shadow' x='232' y='59'>Hi, I'm Chuanrui Wu.</text>
-    <text class='mono intro' x='230' y='57'>Hi, I'm Chuanrui Wu.</text>
+    <text class='mono intro-shadow' x='267' y='59'>Hi, I'm Chuanrui.</text>
+    <text class='mono intro' x='265' y='57'>Hi, I'm Chuanrui.</text>
   </g>
-  <g class='cursor-group'><rect class='cursor' x='230' y='25' width='16' height='39'/></g>
-  <rect class='tag-mark tagline' x='275' y='86' width='6' height='6'/>
-  <text class='mono tagline' x='294' y='94'>I build thoughtful digital experiences.</text>
+  <g class='cursor-group'><rect class='cursor' x='265' y='25' width='16' height='39'/></g>
+  <rect class='tag-mark tagline' x='310' y='86' width='6' height='6'/>
+  <text class='mono tagline' x='328' y='94'>Embodied AI · VLN · Agents</text>
 </svg>
