@@ -2,7 +2,7 @@
   <picture>
     <source media='(prefers-color-scheme: dark)' srcset='./assets/intro-dark.svg?v=2'>
     <source media='(prefers-color-scheme: light)' srcset='./assets/intro-light.svg?v=2'>
-    <img src='./assets/intro-light.svg?v=2' width='100%' alt='Hi, I am Chuanrui Wu.'>
+    <img src='./assets/intro-light.svg?v=2' width='100%' alt='Hi, I am Chuanrui. Exploring Embodied AI.'>
   </picture>
 </p>
 
