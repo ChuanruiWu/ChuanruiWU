@@ -1,8 +1,8 @@
 <p align='center'>
   <picture>
-    <source media='(prefers-color-scheme: dark)' srcset='./assets/intro-dark.svg?v=7'>
-    <source media='(prefers-color-scheme: light)' srcset='./assets/intro-light.svg?v=7'>
-    <img src='./assets/intro-light.svg?v=7' width='100%' alt='Hi, I am Chuanrui.'>
+    <source media='(prefers-color-scheme: dark)' srcset='./assets/intro-dark.svg?v=8'>
+    <source media='(prefers-color-scheme: light)' srcset='./assets/intro-light.svg?v=8'>
+    <img src='./assets/intro-light.svg?v=8' width='100%' alt='Hi there, I am Chuanrui.'>
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- I completed my undergraduate studies at [**Northeastern University (NEU)**](https://www.neu.edu.cn/).
+- I completed my undergraduate studies in **Artificial Intelligence** at [**Northeastern University (NEU), China**](https://www.neu.edu.cn/).
 - I will begin my Ph.D. at the [**National University of Defense Technology (NUDT)**](https://www.nudt.edu.cn/) in Fall 2026.
 - My research interests include **Embodied AI**, **Vision-and-Language Navigation (VLN)**, and **AI agents**.
 
