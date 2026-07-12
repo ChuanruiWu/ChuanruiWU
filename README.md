@@ -1,8 +1,8 @@
 <p align='center'>
   <picture>
-    <source media='(prefers-color-scheme: dark)' srcset='./assets/intro-dark.svg?v=8'>
-    <source media='(prefers-color-scheme: light)' srcset='./assets/intro-light.svg?v=8'>
-    <img src='./assets/intro-light.svg?v=8' width='100%' alt='Hi there, I am Chuanrui.'>
+    <source media='(prefers-color-scheme: dark)' srcset='./assets/intro-dark-v8.svg'>
+    <source media='(prefers-color-scheme: light)' srcset='./assets/intro-light-v8.svg'>
+    <img src='./assets/intro-light-v8.svg' width='100%' alt='Hi there, I am Chuanrui.'>
   </picture>
 </p>
 

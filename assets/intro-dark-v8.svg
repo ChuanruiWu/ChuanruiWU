@@ -1,6 +1,6 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='900' height='112' viewBox='0 0 900 112' role='img' aria-labelledby='title desc' shape-rendering='crispEdges'>
   <title id='title'>Hi there, I'm Chuanrui.</title>
-  <desc id='desc'>A borderless terminal-style profile introduction for a dark theme.</desc>
+  <desc id='desc'>A borderless terminal-style profile introduction for a dark theme, version 8.</desc>
   <defs>
     <clipPath id='reveal'><rect class='reveal' x='283' y='14' width='0' height='48'/></clipPath>
   </defs>
